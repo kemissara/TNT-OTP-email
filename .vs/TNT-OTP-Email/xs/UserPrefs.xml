@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B016A3A3-45A4-4889-B309-8997219EF3ED}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TNT-OTP-Email PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TNT-OTP-Email/appsettings.json">
+    <Files>
+      <File FileName="TNT-OTP-Email/Program.cs" Line="18" Column="58" />
+      <File FileName="TNT-OTP-Email/appsettings.json" Line="5" Column="15" />
+      <File FileName="TNT-OTP-Email/Controllers/GetOTPController.cs" Line="20" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TNT-OTP-Email" expanded="True">
+            <Node name="TNT-OTP-Email" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
